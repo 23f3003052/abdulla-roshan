@@ -1,5 +1,5 @@
 
-# HALA, I'm ABDULLA! 👋
+# HALA, I'm ABDULLA!
 
 
 ## 🚀 About Me
