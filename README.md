@@ -28,5 +28,5 @@
 ## 📚 Education
 
 - **BS in Data Science and Applications** at IIT Madras
-- **Undergoing relevant Coursework**: Machine Learning Foundations, Data Structures, Algorithms, Web Development, Database Systems
+<!-- - **Undergoing relevant Coursework**: Machine Learning Foundations, Data Structures, Algorithms, Web Development, Database Systems -->
 ---
