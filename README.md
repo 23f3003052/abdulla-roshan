@@ -9,11 +9,12 @@
 - 🌱 **Currently Learning**: Machine learning (basics), data analytics, and python.
 - 💬 **Ask Me About**: Data science, machine learning, Python, and web development.
 - 📫 **How to Reach Me**: [abdullaroshanhere@gmail.com](mailto:abdullaroshanhere@gmail.com)
-
+<!--
 ## 🛠️ Technologies & Tools
 
-🔭**NOW**
+ 🔭**NOW**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ⚡**LATER**
@@ -23,7 +24,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
+-->
 ## 📚 Education
 
 - **BS in Data Science and Applications** at IIT Madras
